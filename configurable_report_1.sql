@@ -1,3 +1,3 @@
-/* List all categories */
+/* List all courses */
 
-SELECT * FROM prefix_course_categories
+SELECT * FROM prefix_course
